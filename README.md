@@ -7,6 +7,8 @@ After download the source code, just hit the run button in your IDE. We are taki
 handwritten digits, together with their correct classifications. MNIST's name comes from the fact that it is a modified subset of two data sets collected by NIST, 
 the United States' National Institute of Standards and Technology. The dataset is the mnist.plk.gz file.
 
+After a few sets of training/testing the neural network model achieved an accuracy of nearly 95%.
+
 This work was an implementation of the Neural Nertwork proposed by Michael A. Nielsen, in his book "Neural Network and Deep Learning", Determination Press, 2015. I made
 some changes and tried to write in a more object-oriented way. I also tried to make easier to read each function that the neural network uses in its learning process.
 
