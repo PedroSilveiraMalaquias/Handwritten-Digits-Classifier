@@ -16,7 +16,7 @@ I am also making available my personal notes, which I wrote while I was studying
 and the Output Format we are using in this project. Besides, you can check the cost function and the chosen strategies applied to perform the Gradient Descent and the 
 Backpropagation steps. I tried to summarize my studies about building a neural network from the scratch as much as possible. 
 
-Feel free to reach me about any improuvements. 
+Feel free to reach me about any improvements. 
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
